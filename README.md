@@ -60,6 +60,9 @@ Architecture Diagram:
 
 ## Conclusion:
 I hope this document and the associated code helped you to learn something new and useful!
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 **Disclaimer**: The code referenced in the document is given "as is", just as a mere example. It has been developed once, and it is not intended to be maintained or enhanced in any way. On the other side, feel free to modify as you prefer and to do basically whatever you want with it.
