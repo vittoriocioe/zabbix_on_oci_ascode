@@ -34,7 +34,7 @@ Terraform will perform the following operations:
 Architecture Diagram:
 ![](./images/simpleArch.svg)
 
-**[Download Simple Architecture terraform code](./code/Zabbix_OCI_MDS_SimpleArch.zip)**
+**[Download Simple Architecture terraform code](./code/Zabbix_OCI_MDS_SimpleArch.zip)**<br/>
 **PLEASE NOTE: prior continuing with the deployment, mind the README!**
 
 ## Extended Architecture:
@@ -54,5 +54,5 @@ Terraform will perform the following operations:
 Architecture Diagram:
 ![](./images/extendedArch.svg)
 
-**[Download Extended Architecture terraform code](./code/Zabbix_OCI_MDS_ExtendedArch.zip)**
+**[Download Extended Architecture terraform code](./code/Zabbix_OCI_MDS_ExtendedArch.zip)**<br/>
 **PLEASE NOTE: prior continuing with the deployment, mind the README!**
