@@ -35,7 +35,7 @@ Architecture Diagram:
 ![](./images/simpleArch.svg)
 
 **[Download Simple Architecture terraform code](./code/Zabbix_OCI_MDS_SimpleArch.zip)**
-# PLEASE NOTE: prior continuing with the deployment, mind the README!
+**PLEASE NOTE: prior continuing with the deployment, mind the README!**
 
 ## Extended Architecture:
 Using this code, which I highly suggest to review and understand, you will be able to deploy Zabbix Server and Frontend in separate Compute Instances, with Frontend High Availability. Additionally you will deploy Zabbix Proxy on a separate VCN. MySQL Database Service with High Availability it is used as database for the Server and for the Frontend.
@@ -55,4 +55,4 @@ Architecture Diagram:
 ![](./images/extendedArch.svg)
 
 **[Download Extended Architecture terraform code](./code/Zabbix_OCI_MDS_ExtendedArch.zip)**
-# PLEASE NOTE: prior continuing with the deployment, mind the README!
+**PLEASE NOTE: prior continuing with the deployment, mind the README!**
