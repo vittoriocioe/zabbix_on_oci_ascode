@@ -56,7 +56,7 @@ Architecture Diagram:
 
 **[Download Extended Architecture terraform code](./code/Zabbix_OCI_MDS_ExtendedArch.zip)**<br/>
 **PLEASE NOTE: prior continuing with the deployment, mind the README!**
-
+<br/><br/>
 
 ## Conclusion:
 I hope this document and the associated code helped you to learn something new and useful!
