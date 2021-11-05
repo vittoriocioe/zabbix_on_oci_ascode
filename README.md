@@ -35,7 +35,6 @@ Architecture Diagram:
 ![](./images/simpleArch.svg)
 
 **[Download Simple Architecture terraform code](./code/Zabbix_OCI_MDS_SimpleArch.zip)**
-
 **PLEASE NOTE: prior continuing with the deployment, mind the README!**
 
 ## Extended Architecture:
@@ -56,5 +55,4 @@ Architecture Diagram:
 ![](./images/extendedArch.svg)
 
 **[Download Extended Architecture terraform code](./code/Zabbix_OCI_MDS_ExtendedArch.zip)**
-
 **PLEASE NOTE: prior continuing with the deployment, mind the README!**
